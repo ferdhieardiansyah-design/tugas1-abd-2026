@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | Wikipedia Bahasa Indonesia (`indonesian-nlp/wikipedia-id`) |
+| Sumber | Hugging Face (`https://huggingface.co/datasets/indonesian-nlp/wikipedia-id`) |
+| Lisensi/ketentuan pakai | Creative Commons Attribution-ShareAlike (CC BY-SA 3.0) / Public |
+| Ukuran | 1.446.315 baris (~346 MB compressed Parquet) |
+| Periode data | Ekstraksi Artikel Wikipedia Terbaru (2023/2024) |
+| Unit analisis | Dokumen / Artikel Ensiklopedia |
 
 ## Tempat Mencari Dataset
 

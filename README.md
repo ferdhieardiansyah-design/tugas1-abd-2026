@@ -234,3 +234,12 @@ Isi bagian ini sebelum pengumpulan akhir.
 > Bagian yang dibantu: [contoh: penjelasan error Polars atau review dokumentasi].
 >
 > Verifikasi yang dilakukan: [contoh: menjalankan ulang kode, memeriksa dokumentasi resmi, dan memahami setiap cell].
+
+# Dokumentasi Dataset
+
+- **Nama Dataset:** Wikipedia Bahasa Indonesia (`indonesian-nlp/wikipedia-id`)[cite: 3]
+- **Sumber:** Hugging Face (`https://huggingface.co/datasets/indonesian-nlp/wikipedia-id`)[cite: 3]
+- **Format:** Parquet[cite: 3]
+- **Jumlah Baris:** 1.446.315 baris[cite: 3]
+- **Ukuran:** ~346 MB[cite: 3]
+- **Deskripsi:** Teks artikel ensiklopedia bahasa Indonesia[cite: 3].
